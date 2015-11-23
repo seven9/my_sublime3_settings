@@ -20,7 +20,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#252B39</string>
+        <string>#FAFAFA</string>
         <key>caret</key>
         <string>#979E86</string>
         <key>foreground</key>
@@ -773,13 +773,13 @@
 
   <dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
+            <string>SublimeLinter Warning</string>
             <key>scope</key>
-            <string>sublimelinter.mark.error</string>
+            <string>sublimelinter.mark.warning</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#D02000</string>
+                <string>#DDB700</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -793,13 +793,13 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
+            <string>SublimeLinter Error</string>
             <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
+            <string>sublimelinter.mark.error</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DDB700</string>
+                <string>#D02000</string>
             </dict>
         </dict></array>
   <key>uuid</key>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+	{!! Form::label('${1:email}', '${2:Email}:') !!}
+	{!! Form::email('${1:email}', null) !!}
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ui
+    -input:email</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+{!! Form::open([\$${1:model},'class' => 'ui form' ,'route' => ['${1:model}.update', \$${1:article}->id]]) !!}
+
+{!! Form::close() !!}
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ui-form-model</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
