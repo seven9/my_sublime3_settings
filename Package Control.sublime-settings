@@ -10,7 +10,9 @@
 		"BracketHighlighter",
 		"Colorsublime",
 		"DocBlockr",
+		"ExpressComplete",
 		"Icon Fonts",
+		"Jade",
 		"JavaScript Snippets",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
@@ -31,6 +33,7 @@
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
 		"Theme - Spacegray",
-		"Twig"
+		"Twig",
+		"Vue Syntax Highlight"
 	]
 }
